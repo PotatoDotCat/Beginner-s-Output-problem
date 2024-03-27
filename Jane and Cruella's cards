@@ -1,0 +1,6 @@
+print ("how many cards did Cruellea get this time?")
+age = input ("-->")
+daysleft = int(age) * 2
+print ("this time Jane got")
+print (str(int(daysleft)))
+print ("amount of cards")
