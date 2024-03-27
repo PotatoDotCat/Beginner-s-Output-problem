@@ -1,6 +1,5 @@
-print ("how many cards did Cruellea get this time?")
+print ("Enter the amount of cards cruella got?")
 age = input ("-->")
-daysleft = int(age) * 2
-print ("this time Jane got")
-print (str(int(daysleft)))
-print ("amount of cards")
+Variable_lol= int(age) * 2
+print ("Jane got")
+print (str(int(Variable_lol)))
